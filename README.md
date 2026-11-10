@@ -23,3 +23,5 @@ The project examines how agents interpret and use geospatial explainability evid
 The master's thesis has been completed. We are now expanding the benchmark and experiments and preparing supporting materials for a planned journal submission.
 
 **The source repository is temporarily private while this work is being prepared for submission.** This public repository provides an overview of the project.
+
+[View the project overview (PDF)](GeoXAI_Benchmark_Project_Overview_v3.pdf)
